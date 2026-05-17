@@ -232,7 +232,7 @@ Provides a high-level overview of employee attrition, satisfaction, performance,
 
 ## 📷 Dashboard Preview
 
-![Overview Dashboard](Screenshots/overview-dashboard.png)
+![Overview Dashboard](Screenshots/Overview-Dashboard.png)
 
 ---
 
@@ -273,7 +273,7 @@ Analyzes workforce demographics, salaries, education, and employee distribution.
 
 ## 📷 Dashboard Preview
 
-![Employees Dashboard](Screenshots/employees-dashboard.png)
+![Employees Dashboard](Screenshots/Employees-Dashboard.png)
 
 ---
 
@@ -311,7 +311,7 @@ Tracks employee attendance behavior, overtime, lateness, and absence trends.
 
 ## 📷 Dashboard Preview
 
-![Attendance Dashboard](Screenshots/attendance-dashboard.png)
+![Attendance Dashboard](Screenshots/Attendance-Dashboard.png)
 
 ---
 
@@ -319,7 +319,7 @@ Tracks employee attendance behavior, overtime, lateness, and absence trends.
 
 ## 📷 Data Model Preview
 
-![Data Model](Screenshots/data-model.png)
+![Data Model](Screenshots/Data-Model.png)
 
 ---
 
